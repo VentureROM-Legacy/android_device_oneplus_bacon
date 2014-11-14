@@ -1,31 +1,31 @@
 [
     {
         "remote":      "github",
-        "repository":  "VentureROM-Legacy/android_kernel_oneplus_msm8974",
+        "repository":  "AOSPA-legacy/android_kernel_oneplus_msm8974",
         "target_path": "kernel/oneplus/msm8974",
         "revision":    "kitkat"
     },
     {
         "remote":      "github",
-        "repository":  "VentureROM-Legacy/android_device_oppo_msm8974-common",
+        "repository":  "AOSPA-legacy/android_device_oppo_msm8974-common",
         "target_path": "device/oppo/msm8974-common",
         "revision":    "kitkat"
     },
     {
         "remote":      "github",
-        "repository":  "VentureROM-Legacy/android_device_oppo_common",
+        "repository":  "AOSPA-legacy/android_device_oppo_common",
         "target_path": "device/oppo/common",
         "revision":    "kitkat"
     },
     {
         "remote":       "github",
-        "repository":   "VentureROM-Legacy/android_device_qcom_common",
+        "repository":   "AOSPA-legacy/android_device_qcom_common",
         "target_path":  "device/qcom/common",
         "revision":     "kitkat"
     },
     {
         "remote":      "github",
-        "repository":  "VentureROM-Legacy/android_frameworks_opt_connectivity",
+        "repository":  "AOSPA-legacy/android_frameworks_opt_connectivity",
         "target_path": "frameworks/opt/connectivity",
         "revision":    "kitkat"
     },
